@@ -9,7 +9,7 @@ def main():
     print("Hello World!")
     print("Hi, my name is:")
     name = "Tejas Durgam-Chen" # TODO: Insert your name between the double quotes
-
+    # variable speed name
 
     print(f"{name}, Welcome to the CSS course!")
 
